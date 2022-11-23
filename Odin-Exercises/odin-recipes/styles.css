@@ -1,3 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
 img {
     height: auto;
     width: 500px;
@@ -7,20 +14,6 @@ img {
 
 }
 h1 {
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-}
+    background-color: burlywood;
 
-
-#link-to-second {
-    text-align: center;
-    
-}
-.hp-list{
-    display: inline-block;
-    text-align: left;
-
-}
-h1 span {
-    background-color: aqua;
 }
